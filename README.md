@@ -13,9 +13,9 @@
 <img align="center" alt="Pedro-Linkedin" height="40" width="40" src="https://image.flaticon.com/icons/png/128/145/145807.png">
 </a> 
 
-<a href="https://www.instagram.com/pedro_ornelas13/?hl=pt-br" target="_blank">
+<!--<a href="https://www.instagram.com/pedro_ornelas13/?hl=pt-br" target="_blank">
 <img align="center" alt="Pedro-Instagram" height="40" width="40" src="https://image.flaticon.com/icons/png/128/174/174855.png">
-</a> 
+</a> -->
 
 <a href="mailto:pedroornelaspego@gmail.com" target="_blank">
 <img align="center" alt="Pedro-Gmail" height="45" width="40" src="https://image.flaticon.com/icons/png/128/732/732200.png">
