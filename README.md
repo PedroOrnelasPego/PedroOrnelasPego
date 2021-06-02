@@ -24,7 +24,7 @@
 >
  📫 How to reach me: pedroornelaspego@gmail.com
 
-
+<!--![Snake animation](https://github.com/PedroOrnelasPego/PedroOrnelasPego/blob/output/github-contribution-grid-snake.svg) -->
 
 
 
