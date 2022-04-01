@@ -10,7 +10,7 @@
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/pedro-ornelas-428946204/" target="_blank">
-<img align="center" alt="Pedro-Linkedin" height="40" width="40" src="https://image.flaticon.com/icons/png/128/145/145807.png">
+<img align="center" alt="Pedro-Linkedin" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/124/124011.png">
 </a> 
 
 <!--<a href="https://www.instagram.com/pedro_ornelas13/?hl=pt-br" target="_blank">
@@ -18,7 +18,7 @@
 </a> -->
 
 <a href="mailto:pedroornelaspego@gmail.com" target="_blank">
-<img align="center" alt="Pedro-Gmail" height="45" width="40" src="https://image.flaticon.com/icons/png/128/732/732200.png">
+<img align="center" alt="Pedro-Gmail" height="45" width="40" src="https://cdn-icons-png.flaticon.com/512/732/732200.png">
 </a> 
 
 >
