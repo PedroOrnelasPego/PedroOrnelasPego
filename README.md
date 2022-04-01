@@ -7,6 +7,10 @@
 
 <img align="center" alt="HTML5" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS3" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="JavaScript" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> <img align="center" alt="Bootstrap" height="41" width="41" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg">
 
+## learning:
+
+<img align="center" alt="HTML5" height="45" width="40" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg"><!-- <img align="center" alt="CSS3" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="JavaScript" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> <img align="center" alt="Bootstrap" height="41" width="41" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg"> -->
+
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/pedro-ornelas-428946204/" target="_blank">
