@@ -9,7 +9,7 @@
 
 ## learning:
 
-<img align="center" alt="Angular" height="45" width="40" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg"> <img align="center" alt="Angular" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"> <img align="center" alt="Typescript" height="45" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png"> 
+<img align="center" alt="Angular" height="45" width="40" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg"> <img align="center" alt="React" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"> <img align="center" alt="Typescript" height="45" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png"> 
 
 
 ## Connect with me:
