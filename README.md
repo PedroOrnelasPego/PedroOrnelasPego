@@ -1,48 +1,75 @@
-## Hi there 👋
+<h2 align="left">Hi 👋! 
+My name is Pedro Ornelas and I'm a front-end developer</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroornelaspego&show_icons=true&theme=dark)
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pedroornelaspego&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=pedroornelaspego&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroornelaspego&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ## My Skills:
 
-<img align="center" alt="HTML5" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS3" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="JavaScript" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> <img align="center" alt="React" height="45" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
+###
 
-## learning:
+<img align="right" height="150" src="https://imgflip.com/s/meme/Futurama-Fry.jpg"  />
 
-<img align="center" alt="Angular" height="45" width="40" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg"> <img align="center" alt="Typescript" height="45" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png"> <img align="center" alt="Typescript" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png"> 
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
+
+<img width="12" />
 
 ## Connect with me:
-<a href="https://www.linkedin.com/in/pedro-ornelas-428946204/" target="_blank">
-<img align="center" alt="Pedro-Linkedin" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/124/124011.png">
-</a> 
 
-<!--<a href="https://www.instagram.com/pedro_ornelas13/?hl=pt-br" target="_blank">
-<img align="center" alt="Pedro-Instagram" height="40" width="40" src="https://image.flaticon.com/icons/png/128/174/174855.png">
-</a> -->
-
-<a href="mailto:pedroornelaspego@gmail.com" target="_blank">
-<img align="center" alt="Pedro-Gmail" height="45" width="40" src="https://cdn-icons-png.flaticon.com/512/732/732200.png">
-</a> 
-
->
- 📫 How to reach me: pedroornelaspego@gmail.com
-
-<!--![Snake animation](https://github.com/PedroOrnelasPego/PedroOrnelasPego/blob/output/github-contribution-grid-snake.svg) -->
+<div align="left">
+ <a href="https://www.linkedin.com/in/pedro-ornelas-428946204/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="linkedin logo"  />
+ </a>
+ <a href="mailto:pedroornelaspego@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="gmail logo" />
+ </a>
+</div>
 
 
 
-<!--
-**PedroOrnelasPego/PedroOrnelasPego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<br clear="both">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... - 📫 How to reach me: pedroornelaspego@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://raw.githubusercontent.com/pedroornelaspego/pedroornelaspego/output/snake.svg" alt="Snake animation" />
+
+###
