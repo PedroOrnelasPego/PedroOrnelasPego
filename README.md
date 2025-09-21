@@ -12,9 +12,9 @@ My name is Pedro Ornelas and I'm a software developer</h2>
 ## My Skills:
 
 ###
-
+<!--
 <img align="right" height="150" src="https://imgflip.com/s/meme/Futurama-Fry.jpg"  />
-
+-->
 ###
 
 <div align="left">
@@ -68,7 +68,6 @@ My name is Pedro Ornelas and I'm a software developer</h2>
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="gmail logo" />
  </a>
 </div>
-
 
 
 ###
