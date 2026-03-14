@@ -69,11 +69,11 @@ My name is Pedro Ornelas and I'm a software developer</h2>
  </a>
 </div>
 
-
+<!--
 ###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/pedroornelaspego/pedroornelaspego/output/snake.svg" alt="Snake animation" />
-
+-->
 ###
