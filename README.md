@@ -60,6 +60,7 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-4B6B94?style=for-the-badge&logo=kanban&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![DSpace](https://img.shields.io/badge/DSpace-00599C?style=for-the-badge&logo=dspace&logoColor=white)
 
 ---
 
